@@ -63,7 +63,6 @@ A chave deve ser configurada de acordo com a plataforma utilizada, como Android,
 
 > ⚠️ Não compartilhe sua API Key publicamente em repositórios.
 
-## 📸 Demonstração
 
 ## 📸 Demonstração
 
