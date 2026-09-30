@@ -65,6 +65,8 @@ A chave deve ser configurada de acordo com a plataforma utilizada, como Android,
 
 ## 📸 Demonstração
 
+## 📸 Demonstração
+
 ![Google Maps funcionando](print.png)
 
 > Coloque o print da tela do seu aplicativo na pasta do projeto e altere `print.png` para o nome exato da imagem.
